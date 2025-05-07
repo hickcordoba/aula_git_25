@@ -1,0 +1,10 @@
+Rebecca S. Welch, Edgar D. Zanotto, Collin J. Wilkinson, Daniel R. Cassar, Maziar Montazerian, John C. Mauro,
+Cracking the Kauzmann paradox,
+Acta Materialia,
+Volume 254,
+2023,
+118994,
+ISSN 1359-6454,
+https://doi.org/10.1016/j.actamat.2023.118994.
+(https://www.sciencedirect.com/science/article/pii/S1359645423003257)
+Abstract: The Kauzmann paradox and associated Kauzmann temperature are two of the most widely debated topics in glass science over the past eighty years. Both conceptualized by Walter Kauzmann in 1948, the Kauzmann paradox occurs when some supercooled liquids apparently exhibit a negative excess entropy at temperatures above absolute zero. The Kauzmann temperature is the temperature at which the excess entropy vanishes. This review provides a retrospective on the origin of these hypotheses and their study through energy landscapes, crystallization behavior, and viscosity models. We also provide a critical analysis of each approach. After nearly eighty years of research, there is no conclusive evidence that supports the concepts proposed by Kauzmann. As such, it can be concluded that future work should be focused elsewhere.
